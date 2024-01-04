@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning [Vue](https://vuejs.org/),[springCloud](https://vuejs.org/)
 - 💞️ I'm looking for a like-minded programmer to pair program
 
-![zhaoYi GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhaoYi&show_icons=true)
+![zhaoYi GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmosZha&show_icons=true)
 
 ### Languages and Tools
 
